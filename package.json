@@ -13,8 +13,7 @@
   "dependencies": {
     "react": "16.6.1",
     "react-native": "0.57.5",
-    "react-native-fontawesome": "5.7.0",
-    "react-native-types-for-css-modules": "github:kristerkari/react-native-types-for-css-modules#v0.57.7"
+    "react-native-fontawesome": "5.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.6",
